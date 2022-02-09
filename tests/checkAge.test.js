@@ -1,4 +1,4 @@
-import {checkIfOver18} from '../../src/fundamentals-ex/checkAge'
+import {checkIfOver18} from '../js/components/checkAge'
 
 describe('Should return if you can drive', () => {
 
