@@ -1,11 +1,12 @@
 # Javascript Fundamentals Exercises with Jest
 
-Ejercicio con test para practicar con variables y testing con jest.
+Ejercicio con test para practicar con variables y testing con jest. También incluye una segunda parte para maquetar con VUE.
 
 ## Requirements
 
 - Node.js
 - NPM
+- VUE
 
 ## Installation
 
